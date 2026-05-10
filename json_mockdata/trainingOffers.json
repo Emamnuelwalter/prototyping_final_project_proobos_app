@@ -1,0 +1,1330 @@
+[
+  {
+    "_id": "offer_001",
+    "trainerId": "user_016",
+    "locationId": "location_010",
+    "title": "Individuelles Krafttraining",
+    "sport": "Krafttraining",
+    "levels": [
+      "Fortgeschritten",
+      "Mittel"
+    ],
+    "pricePerHour": 125,
+    "currency": "CHF",
+    "description": "Individuelles Krafttraining mit Fokus auf Technik, Trainingsplanung und messbaren Fortschritt.",
+    "requirements": [
+      "Sportkleidung und saubere Trainingsschuhe mitbringen",
+      "Handtuch und Trinkflasche mitbringen",
+      "Bei Verletzungen oder Einschränkungen den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-13",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-15",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 14,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_002",
+    "trainerId": "user_017",
+    "locationId": "location_001",
+    "title": "Tennis Einzeltraining",
+    "sport": "Tennis",
+    "levels": [
+      "Anfänger",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 95,
+    "currency": "CHF",
+    "description": "Einzeltraining für Technik, Schlagkontrolle, Beinarbeit und Spielstrategie.",
+    "requirements": [
+      "Tennisschläger und geeignete Tennisschuhe mitbringen",
+      "Wettergerechte Sportkleidung tragen",
+      "Eigene Bälle optional, Trainingsbälle werden vom Trainer bereitgestellt"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-13",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-15",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-25",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 8,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_003",
+    "trainerId": "user_017",
+    "locationId": "location_009",
+    "title": "Tennis Techniklektion",
+    "sport": "Tennis",
+    "levels": [
+      "Anfänger",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 95,
+    "currency": "CHF",
+    "description": "Einzeltraining für Technik, Schlagkontrolle, Beinarbeit und Spielstrategie.",
+    "requirements": [
+      "Tennisschläger und geeignete Tennisschuhe mitbringen",
+      "Wettergerechte Sportkleidung tragen",
+      "Eigene Bälle optional, Trainingsbälle werden vom Trainer bereitgestellt"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-13",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-15",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-17",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-25",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 6,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_004",
+    "trainerId": "user_018",
+    "locationId": "location_002",
+    "title": "Schwimmcoaching für Erwachsene",
+    "sport": "Schwimmen",
+    "levels": [
+      "Mittel",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 115,
+    "currency": "CHF",
+    "description": "Persönliches Schwimmtraining mit Fokus auf Technik, Atmung und Sicherheit im Wasser.",
+    "requirements": [
+      "Badebekleidung, Badetuch und Schwimmbrille mitbringen",
+      "Sicheres Bewegen im Wasser wird vorausgesetzt",
+      "Bei Unsicherheit im Wasser den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-13",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-15",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-16",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 34,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_005",
+    "trainerId": "user_018",
+    "locationId": "location_002",
+    "title": "Schwimmtechnik Einzeltraining",
+    "sport": "Schwimmen",
+    "levels": [
+      "Mittel",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 80,
+    "currency": "CHF",
+    "description": "Persönliches Schwimmtraining mit Fokus auf Technik, Atmung und Sicherheit im Wasser.",
+    "requirements": [
+      "Badebekleidung, Badetuch und Schwimmbrille mitbringen",
+      "Sicheres Bewegen im Wasser wird vorausgesetzt",
+      "Bei Unsicherheit im Wasser den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-14",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-25",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 3.8,
+    "reviewCount": 24,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_006",
+    "trainerId": "user_019",
+    "locationId": "location_006",
+    "title": "Boxtechnik und Fitness",
+    "sport": "Boxen",
+    "levels": [
+      "Fortgeschritten",
+      "Anfänger",
+      "Mittel"
+    ],
+    "pricePerHour": 90,
+    "currency": "CHF",
+    "description": "Boxtraining für Technik, Koordination, Kraftausdauer und Fitness.",
+    "requirements": [
+      "Sportkleidung und Hallenschuhe mitbringen",
+      "Boxbandagen empfohlen, Handschuhe können nach Absprache bereitgestellt werden",
+      "Geeignet für Techniktraining ohne Wettkampferfahrung"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-12",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-12",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-14",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-16",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-20",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 32,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_007",
+    "trainerId": "user_019",
+    "locationId": "location_004",
+    "title": "Boxen Einzeltraining",
+    "sport": "Boxen",
+    "levels": [
+      "Fortgeschritten",
+      "Anfänger",
+      "Mittel"
+    ],
+    "pricePerHour": 80,
+    "currency": "CHF",
+    "description": "Boxtraining für Technik, Koordination, Kraftausdauer und Fitness.",
+    "requirements": [
+      "Sportkleidung und Hallenschuhe mitbringen",
+      "Boxbandagen empfohlen, Handschuhe können nach Absprache bereitgestellt werden",
+      "Geeignet für Techniktraining ohne Wettkampferfahrung"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-18",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 26,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_008",
+    "trainerId": "user_020",
+    "locationId": "location_007",
+    "title": "Private Yoga Session",
+    "sport": "Yoga",
+    "levels": [
+      "Fortgeschritten",
+      "Mittel",
+      "Anfänger"
+    ],
+    "pricePerHour": 85,
+    "currency": "CHF",
+    "description": "Individuelle Yoga-Lektion für Beweglichkeit, Haltung, Atmung und Entspannung.",
+    "requirements": [
+      "Bequeme Kleidung mitbringen",
+      "Eigene Yogamatte optional, Matten sind vor Ort verfügbar",
+      "Vor dem Training schwere Mahlzeiten vermeiden"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-15",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.5,
+    "reviewCount": 6,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_009",
+    "trainerId": "user_021",
+    "locationId": "location_003",
+    "title": "Golf Schwungtraining",
+    "sport": "Golf",
+    "levels": [
+      "Mittel",
+      "Anfänger"
+    ],
+    "pricePerHour": 130,
+    "currency": "CHF",
+    "description": "Golfcoaching für Schwungtechnik, Haltung, Präzision und Spielverständnis.",
+    "requirements": [
+      "Bequeme Sportkleidung und Golfschuhe oder feste Schuhe tragen",
+      "Eigene Schläger optional, Leihausrüstung nach Absprache möglich",
+      "Geeignet für Anfänger und Fortgeschrittene"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-14",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-17",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.8,
+    "reviewCount": 19,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_010",
+    "trainerId": "user_021",
+    "locationId": "location_003",
+    "title": "Golf Coaching für Einsteiger",
+    "sport": "Golf",
+    "levels": [
+      "Mittel",
+      "Anfänger"
+    ],
+    "pricePerHour": 140,
+    "currency": "CHF",
+    "description": "Golfcoaching für Schwungtechnik, Haltung, Präzision und Spielverständnis.",
+    "requirements": [
+      "Bequeme Sportkleidung und Golfschuhe oder feste Schuhe tragen",
+      "Eigene Schläger optional, Leihausrüstung nach Absprache möglich",
+      "Geeignet für Anfänger und Fortgeschrittene"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-14",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-16",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-23",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.1,
+    "reviewCount": 13,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_011",
+    "trainerId": "user_022",
+    "locationId": "location_004",
+    "title": "Techniktraining im Kraftbereich",
+    "sport": "Krafttraining",
+    "levels": [
+      "Fortgeschritten",
+      "Anfänger"
+    ],
+    "pricePerHour": 120,
+    "currency": "CHF",
+    "description": "Individuelles Krafttraining mit Fokus auf Technik, Trainingsplanung und messbaren Fortschritt.",
+    "requirements": [
+      "Sportkleidung und saubere Trainingsschuhe mitbringen",
+      "Handtuch und Trinkflasche mitbringen",
+      "Bei Verletzungen oder Einschränkungen den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-13",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-16",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-17",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-20",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-25",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 16,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_012",
+    "trainerId": "user_022",
+    "locationId": "location_006",
+    "title": "Boxtraining für Einsteiger",
+    "sport": "Boxen",
+    "levels": [
+      "Fortgeschritten",
+      "Anfänger",
+      "Mittel"
+    ],
+    "pricePerHour": 110,
+    "currency": "CHF",
+    "description": "Boxtraining für Technik, Koordination, Kraftausdauer und Fitness.",
+    "requirements": [
+      "Sportkleidung und Hallenschuhe mitbringen",
+      "Boxbandagen empfohlen, Handschuhe können nach Absprache bereitgestellt werden",
+      "Geeignet für Techniktraining ohne Wettkampferfahrung"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-13",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-14",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-20",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-25",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.0,
+    "reviewCount": 19,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_013",
+    "trainerId": "user_022",
+    "locationId": "location_006",
+    "title": "Boxtechnik und Fitness",
+    "sport": "Boxen",
+    "levels": [
+      "Fortgeschritten",
+      "Anfänger",
+      "Mittel"
+    ],
+    "pricePerHour": 70,
+    "currency": "CHF",
+    "description": "Boxtraining für Technik, Koordination, Kraftausdauer und Fitness.",
+    "requirements": [
+      "Sportkleidung und Hallenschuhe mitbringen",
+      "Boxbandagen empfohlen, Handschuhe können nach Absprache bereitgestellt werden",
+      "Geeignet für Techniktraining ohne Wettkampferfahrung"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-17",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.9,
+    "reviewCount": 15,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_014",
+    "trainerId": "user_023",
+    "locationId": "location_001",
+    "title": "Tennis Einzeltraining",
+    "sport": "Tennis",
+    "levels": [
+      "Fortgeschritten",
+      "Mittel"
+    ],
+    "pricePerHour": 110,
+    "currency": "CHF",
+    "description": "Einzeltraining für Technik, Schlagkontrolle, Beinarbeit und Spielstrategie.",
+    "requirements": [
+      "Tennisschläger und geeignete Tennisschuhe mitbringen",
+      "Wettergerechte Sportkleidung tragen",
+      "Eigene Bälle optional, Trainingsbälle werden vom Trainer bereitgestellt"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-16",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-23",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 2,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_015",
+    "trainerId": "user_023",
+    "locationId": "location_002",
+    "title": "Schwimmcoaching für Erwachsene",
+    "sport": "Schwimmen",
+    "levels": [
+      "Anfänger",
+      "Fortgeschritten",
+      "Mittel"
+    ],
+    "pricePerHour": 90,
+    "currency": "CHF",
+    "description": "Persönliches Schwimmtraining mit Fokus auf Technik, Atmung und Sicherheit im Wasser.",
+    "requirements": [
+      "Badebekleidung, Badetuch und Schwimmbrille mitbringen",
+      "Sicheres Bewegen im Wasser wird vorausgesetzt",
+      "Bei Unsicherheit im Wasser den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-15",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-16",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-16",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.2,
+    "reviewCount": 32,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_016",
+    "trainerId": "user_024",
+    "locationId": "location_007",
+    "title": "Private Yoga Session",
+    "sport": "Yoga",
+    "levels": [
+      "Anfänger",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 65,
+    "currency": "CHF",
+    "description": "Individuelle Yoga-Lektion für Beweglichkeit, Haltung, Atmung und Entspannung.",
+    "requirements": [
+      "Bequeme Kleidung mitbringen",
+      "Eigene Yogamatte optional, Matten sind vor Ort verfügbar",
+      "Vor dem Training schwere Mahlzeiten vermeiden"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-13",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-14",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-17",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.9,
+    "reviewCount": 12,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_017",
+    "trainerId": "user_024",
+    "locationId": "location_007",
+    "title": "Yoga für Beweglichkeit und Entspannung",
+    "sport": "Yoga",
+    "levels": [
+      "Anfänger",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 65,
+    "currency": "CHF",
+    "description": "Individuelle Yoga-Lektion für Beweglichkeit, Haltung, Atmung und Entspannung.",
+    "requirements": [
+      "Bequeme Kleidung mitbringen",
+      "Eigene Yogamatte optional, Matten sind vor Ort verfügbar",
+      "Vor dem Training schwere Mahlzeiten vermeiden"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-13",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-17",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.7,
+    "reviewCount": 19,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_018",
+    "trainerId": "user_024",
+    "locationId": "location_010",
+    "title": "Personal Fitness Coaching",
+    "sport": "Krafttraining",
+    "levels": [
+      "Fortgeschritten",
+      "Mittel"
+    ],
+    "pricePerHour": 100,
+    "currency": "CHF",
+    "description": "Individuelles Krafttraining mit Fokus auf Technik, Trainingsplanung und messbaren Fortschritt.",
+    "requirements": [
+      "Sportkleidung und saubere Trainingsschuhe mitbringen",
+      "Handtuch und Trinkflasche mitbringen",
+      "Bei Verletzungen oder Einschränkungen den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-15",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-18",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-20",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-23",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.8,
+    "reviewCount": 19,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_019",
+    "trainerId": "user_024",
+    "locationId": "location_006",
+    "title": "Personal Fitness Coaching",
+    "sport": "Krafttraining",
+    "levels": [
+      "Fortgeschritten",
+      "Mittel"
+    ],
+    "pricePerHour": 85,
+    "currency": "CHF",
+    "description": "Individuelles Krafttraining mit Fokus auf Technik, Trainingsplanung und messbaren Fortschritt.",
+    "requirements": [
+      "Sportkleidung und saubere Trainingsschuhe mitbringen",
+      "Handtuch und Trinkflasche mitbringen",
+      "Bei Verletzungen oder Einschränkungen den Trainer vorab informieren"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-16",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-20",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.6,
+    "reviewCount": 21,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_020",
+    "trainerId": "user_025",
+    "locationId": "location_003",
+    "title": "Golf Schwungtraining",
+    "sport": "Golf",
+    "levels": [
+      "Anfänger",
+      "Mittel"
+    ],
+    "pricePerHour": 140,
+    "currency": "CHF",
+    "description": "Golfcoaching für Schwungtechnik, Haltung, Präzision und Spielverständnis.",
+    "requirements": [
+      "Bequeme Sportkleidung und Golfschuhe oder feste Schuhe tragen",
+      "Eigene Schläger optional, Leihausrüstung nach Absprache möglich",
+      "Geeignet für Anfänger und Fortgeschrittene"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-12",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-14",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "17:00",
+        "endTime": "18:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.9,
+    "reviewCount": 12,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_021",
+    "trainerId": "user_025",
+    "locationId": "location_003",
+    "title": "Golf Schwungtraining",
+    "sport": "Golf",
+    "levels": [
+      "Anfänger",
+      "Mittel"
+    ],
+    "pricePerHour": 125,
+    "currency": "CHF",
+    "description": "Golfcoaching für Schwungtechnik, Haltung, Präzision und Spielverständnis.",
+    "requirements": [
+      "Bequeme Sportkleidung und Golfschuhe oder feste Schuhe tragen",
+      "Eigene Schläger optional, Leihausrüstung nach Absprache möglich",
+      "Geeignet für Anfänger und Fortgeschrittene"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-14",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-15",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "20:00",
+        "endTime": "21:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-26",
+        "startTime": "08:00",
+        "endTime": "09:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.4,
+    "reviewCount": 35,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "offer_022",
+    "trainerId": "user_025",
+    "locationId": "location_001",
+    "title": "Tennis Einzeltraining",
+    "sport": "Tennis",
+    "levels": [
+      "Mittel",
+      "Fortgeschritten"
+    ],
+    "pricePerHour": 115,
+    "currency": "CHF",
+    "description": "Einzeltraining für Technik, Schlagkontrolle, Beinarbeit und Spielstrategie.",
+    "requirements": [
+      "Tennisschläger und geeignete Tennisschuhe mitbringen",
+      "Wettergerechte Sportkleidung tragen",
+      "Eigene Bälle optional, Trainingsbälle werden vom Trainer bereitgestellt"
+    ],
+    "availableTimes": [
+      {
+        "date": "2026-05-18",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-19",
+        "startTime": "12:00",
+        "endTime": "13:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-20",
+        "startTime": "19:00",
+        "endTime": "20:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-21",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-22",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-23",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      },
+      {
+        "date": "2026-05-24",
+        "startTime": "09:00",
+        "endTime": "10:00",
+        "isAvailable": true
+      }
+    ],
+    "averageRating": 4.3,
+    "reviewCount": 15,
+    "status": "active",
+    "createdAt": "2026-05-02T10:00:00Z",
+    "isMock": true
+  }
+]

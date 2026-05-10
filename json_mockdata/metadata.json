@@ -1,0 +1,28 @@
+{
+  "project": "Proboos",
+  "database": "MongoDB",
+  "createdFor": "Prototype / Schulprojekt",
+  "collections": {
+    "users": 26,
+    "trainingLocations": 10,
+    "trainingOffers": 22,
+    "bookings": 18,
+    "reviews": 7,
+    "messages": 18
+  },
+  "sports": [
+    "Krafttraining",
+    "Tennis",
+    "Schwimmen",
+    "Boxen",
+    "Yoga",
+    "Golf"
+  ],
+  "notes": [
+    "Koordinaten sind WGS84-kompatibel.",
+    "geo.coordinates nutzt GeoJSON-Reihenfolge [longitude, latitude].",
+    "roles ist ein Array, damit ein User später Sportler und Trainer gleichzeitig sein kann.",
+    "requestedLocation ist für die spätere Erweiterung vorgesehen, bei der Kundinnen und Kunden einen freien Wunschstandort vorschlagen können.",
+    "Standortdaten dienen dem Prototyp und sollten vor produktiver Nutzung nochmals geprüft werden."
+  ]
+}

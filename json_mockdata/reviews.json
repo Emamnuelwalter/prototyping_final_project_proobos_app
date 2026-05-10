@@ -1,0 +1,79 @@
+[
+  {
+    "_id": "review_001",
+    "bookingId": "booking_002",
+    "customerId": "user_007",
+    "trainerId": "user_023",
+    "offerId": "offer_014",
+    "rating": 5,
+    "comment": "Gute Atmosphäre und klare Struktur in der Lektion.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "review_002",
+    "bookingId": "booking_005",
+    "customerId": "user_014",
+    "trainerId": "user_016",
+    "offerId": "offer_001",
+    "rating": 4,
+    "comment": "Das Training war anspruchsvoll, aber sehr motivierend.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "review_003",
+    "bookingId": "booking_007",
+    "customerId": "user_014",
+    "trainerId": "user_022",
+    "offerId": "offer_013",
+    "rating": 4,
+    "comment": "Sehr passend für mein Niveau und meine Ziele.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "review_004",
+    "bookingId": "booking_009",
+    "customerId": "user_004",
+    "trainerId": "user_024",
+    "offerId": "offer_016",
+    "rating": 4,
+    "comment": "Gute Atmosphäre und klare Struktur in der Lektion.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "review_005",
+    "bookingId": "booking_011",
+    "customerId": "user_011",
+    "trainerId": "user_025",
+    "offerId": "offer_022",
+    "rating": 4,
+    "comment": "Sehr passend für mein Niveau und meine Ziele.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "review_006",
+    "bookingId": "booking_013",
+    "customerId": "user_009",
+    "trainerId": "user_025",
+    "offerId": "offer_020",
+    "rating": 4,
+    "comment": "Sehr passend für mein Niveau und meine Ziele.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "review_007",
+    "bookingId": "booking_017",
+    "customerId": "user_006",
+    "trainerId": "user_022",
+    "offerId": "offer_013",
+    "rating": 4,
+    "comment": "Sehr gutes Training, die Übungen wurden verständlich erklärt.",
+    "createdAt": "2026-05-20T14:00:00Z",
+    "isMock": true
+  }
+]

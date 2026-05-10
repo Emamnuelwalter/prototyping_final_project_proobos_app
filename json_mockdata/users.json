@@ -1,0 +1,788 @@
+[
+  {
+    "_id": "user_001",
+    "firstName": "Mark",
+    "lastName": "Meier",
+    "email": "mark.meier1@example.ch",
+    "phone": "+41 79 101 11 21",
+    "canton": "Zürich",
+    "municipality": "Zürich",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Golf",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Tennis",
+        "level": "Fortgeschritten"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_002",
+    "firstName": "Laura",
+    "lastName": "Keller",
+    "email": "laura.keller2@example.ch",
+    "phone": "+41 79 102 12 22",
+    "canton": "Zürich",
+    "municipality": "Horgen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Krafttraining",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Yoga",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Boxen",
+        "level": "Anfänger"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_003",
+    "firstName": "Nina",
+    "lastName": "Müller",
+    "email": "nina.mueller3@example.ch",
+    "phone": "+41 79 103 13 23",
+    "canton": "Aargau",
+    "municipality": "Baden",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Yoga",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Golf",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Krafttraining",
+        "level": "Fortgeschritten"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_004",
+    "firstName": "David",
+    "lastName": "Schmid",
+    "email": "david.schmid4@example.ch",
+    "phone": "+41 79 104 14 24",
+    "canton": "St. Gallen",
+    "municipality": "Rapperswil-Jona",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Tennis",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Boxen",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Fortgeschritten"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_005",
+    "firstName": "Sofia",
+    "lastName": "Huber",
+    "email": "sofia.huber5@example.ch",
+    "phone": "+41 79 105 15 25",
+    "canton": "Luzern",
+    "municipality": "Emmen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Schwimmen",
+        "level": "Mittel"
+      },
+      {
+        "sport": "Tennis",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Yoga",
+        "level": "Anfänger"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_006",
+    "firstName": "Jonas",
+    "lastName": "Fischer",
+    "email": "jonas.fischer6@example.ch",
+    "phone": "+41 79 106 16 26",
+    "canton": "Luzern",
+    "municipality": "Luzern",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Schwimmen",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Golf",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Yoga",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_007",
+    "firstName": "Lea",
+    "lastName": "Weber",
+    "email": "lea.weber7@example.ch",
+    "phone": "+41 79 107 17 27",
+    "canton": "St. Gallen",
+    "municipality": "St. Gallen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Boxen",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Krafttraining",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_008",
+    "firstName": "Noah",
+    "lastName": "Brunner",
+    "email": "noah.brunner8@example.ch",
+    "phone": "+41 79 108 18 28",
+    "canton": "St. Gallen",
+    "municipality": "St. Gallen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Golf",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Krafttraining",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Yoga",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_009",
+    "firstName": "Mia",
+    "lastName": "Baumann",
+    "email": "mia.baumann9@example.ch",
+    "phone": "+41 79 109 19 29",
+    "canton": "Zürich",
+    "municipality": "Dübendorf",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Krafttraining",
+        "level": "Mittel"
+      },
+      {
+        "sport": "Boxen",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_010",
+    "firstName": "Luca",
+    "lastName": "Frei",
+    "email": "luca.frei10@example.ch",
+    "phone": "+41 79 110 20 30",
+    "canton": "Aargau",
+    "municipality": "Wettingen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Schwimmen",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Tennis",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Golf",
+        "level": "Fortgeschritten"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_011",
+    "firstName": "Elena",
+    "lastName": "Steiner",
+    "email": "elena.steiner11@example.ch",
+    "phone": "+41 79 111 21 31",
+    "canton": "Zürich",
+    "municipality": "Uster",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Yoga",
+        "level": "Mittel"
+      },
+      {
+        "sport": "Tennis",
+        "level": "Mittel"
+      },
+      {
+        "sport": "Golf",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_012",
+    "firstName": "Tim",
+    "lastName": "Graf",
+    "email": "tim.graf12@example.ch",
+    "phone": "+41 79 112 22 32",
+    "canton": "St. Gallen",
+    "municipality": "St. Gallen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Golf",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Krafttraining",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_013",
+    "firstName": "Sarah",
+    "lastName": "Wenger",
+    "email": "sarah.wenger13@example.ch",
+    "phone": "+41 79 113 23 33",
+    "canton": "Luzern",
+    "municipality": "Emmen",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Krafttraining",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Tennis",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_014",
+    "firstName": "Fabian",
+    "lastName": "Gerber",
+    "email": "fabian.gerber14@example.ch",
+    "phone": "+41 79 114 24 34",
+    "canton": "Luzern",
+    "municipality": "Horw",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Tennis",
+        "level": "Anfänger"
+      },
+      {
+        "sport": "Schwimmen",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Golf",
+        "level": "Fortgeschritten"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_015",
+    "firstName": "Anna",
+    "lastName": "Bucher",
+    "email": "anna.bucher15@example.ch",
+    "phone": "+41 79 115 25 35",
+    "canton": "St. Gallen",
+    "municipality": "Rapperswil-Jona",
+    "roles": [
+      "customer"
+    ],
+    "interestedSports": [
+      {
+        "sport": "Golf",
+        "level": "Fortgeschritten"
+      },
+      {
+        "sport": "Yoga",
+        "level": "Mittel"
+      },
+      {
+        "sport": "Boxen",
+        "level": "Mittel"
+      }
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_016",
+    "firstName": "Simon",
+    "lastName": "Keller",
+    "email": "simon.keller16@example.ch",
+    "phone": "+41 79 116 26 36",
+    "canton": "Zürich",
+    "municipality": "Winterthur",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Krafttraining",
+        "levels": [
+          "Fortgeschritten",
+          "Mittel"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Krafttraining Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 3,
+      "certifications": [
+        "Krafttraining Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_017",
+    "firstName": "Nadia",
+    "lastName": "Meier",
+    "email": "nadia.meier17@example.ch",
+    "phone": "+41 79 117 27 37",
+    "canton": "Zürich",
+    "municipality": "Zürich",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Tennis",
+        "levels": [
+          "Anfänger",
+          "Fortgeschritten"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Tennis Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 12,
+      "certifications": [
+        "Tennis Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_018",
+    "firstName": "Marco",
+    "lastName": "Rocha",
+    "email": "marco.rocha18@example.ch",
+    "phone": "+41 79 118 28 38",
+    "canton": "Zürich",
+    "municipality": "Dietikon",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Schwimmen",
+        "levels": [
+          "Mittel",
+          "Fortgeschritten"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Schwimmen Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 11,
+      "certifications": [
+        "Schwimmen Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_019",
+    "firstName": "Julia",
+    "lastName": "Steiner",
+    "email": "julia.steiner19@example.ch",
+    "phone": "+41 79 119 29 39",
+    "canton": "Zürich",
+    "municipality": "Dietikon",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Boxen",
+        "levels": [
+          "Fortgeschritten",
+          "Anfänger",
+          "Mittel"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Boxen Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 12,
+      "certifications": [
+        "Boxen Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_020",
+    "firstName": "Lukas",
+    "lastName": "Wüthrich",
+    "email": "lukas.wuethrich20@example.ch",
+    "phone": "+41 79 120 30 40",
+    "canton": "Zürich",
+    "municipality": "Adliswil",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Yoga",
+        "levels": [
+          "Fortgeschritten",
+          "Mittel",
+          "Anfänger"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Yoga Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 6,
+      "certifications": [
+        "Yoga Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_021",
+    "firstName": "Chiara",
+    "lastName": "Fischer",
+    "email": "chiara.fischer21@example.ch",
+    "phone": "+41 79 121 31 41",
+    "canton": "Zürich",
+    "municipality": "Dietikon",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Golf",
+        "levels": [
+          "Mittel",
+          "Anfänger"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Golf Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 6,
+      "certifications": [
+        "Golf Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_022",
+    "firstName": "Kevin",
+    "lastName": "Bär",
+    "email": "kevin.baer22@example.ch",
+    "phone": "+41 79 122 32 42",
+    "canton": "Zürich",
+    "municipality": "Adliswil",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Krafttraining",
+        "levels": [
+          "Fortgeschritten",
+          "Anfänger"
+        ]
+      },
+      {
+        "sport": "Boxen",
+        "levels": [
+          "Fortgeschritten",
+          "Anfänger",
+          "Mittel"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Boxen Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 7,
+      "certifications": [
+        "Krafttraining Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_023",
+    "firstName": "Melanie",
+    "lastName": "Haller",
+    "email": "melanie.haller23@example.ch",
+    "phone": "+41 79 123 33 43",
+    "canton": "Zürich",
+    "municipality": "Winterthur",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Tennis",
+        "levels": [
+          "Fortgeschritten",
+          "Mittel"
+        ]
+      },
+      {
+        "sport": "Schwimmen",
+        "levels": [
+          "Anfänger",
+          "Fortgeschritten",
+          "Mittel"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Schwimmen Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 6,
+      "certifications": [
+        "Tennis Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_024",
+    "firstName": "Patrick",
+    "lastName": "Moser",
+    "email": "patrick.moser24@example.ch",
+    "phone": "+41 79 124 34 44",
+    "canton": "Zürich",
+    "municipality": "Winterthur",
+    "roles": [
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Yoga",
+        "levels": [
+          "Anfänger",
+          "Fortgeschritten"
+        ]
+      },
+      {
+        "sport": "Krafttraining",
+        "levels": [
+          "Fortgeschritten",
+          "Mittel"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Krafttraining Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 3,
+      "certifications": [
+        "Yoga Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_025",
+    "firstName": "Vanessa",
+    "lastName": "Zuber",
+    "email": "vanessa.zuber25@example.ch",
+    "phone": "+41 79 125 35 45",
+    "canton": "Zürich",
+    "municipality": "Adliswil",
+    "roles": [
+      "customer",
+      "trainer"
+    ],
+    "offeredSports": [
+      {
+        "sport": "Golf",
+        "levels": [
+          "Anfänger",
+          "Mittel"
+        ]
+      },
+      {
+        "sport": "Tennis",
+        "levels": [
+          "Mittel",
+          "Fortgeschritten"
+        ]
+      }
+    ],
+    "trainerProfile": {
+      "description": "Tennis Coach mit Fokus auf individuelle Betreuung, Technik und nachhaltige Fortschritte.",
+      "experienceYears": 5,
+      "certifications": [
+        "Golf Coach Zertifikat",
+        "Erste-Hilfe-Kurs"
+      ]
+    },
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "user_admin_001",
+    "firstName": "Admin",
+    "lastName": "Proboos",
+    "email": "admin@proboos.ch",
+    "phone": "+41 44 000 00 00",
+    "canton": "Zürich",
+    "municipality": "Zürich",
+    "roles": [
+      "admin"
+    ],
+    "permissions": [
+      "manage_users",
+      "manage_trainers",
+      "manage_offers",
+      "manage_bookings",
+      "manage_locations",
+      "manage_reviews",
+      "manage_messages"
+    ],
+    "createdAt": "2026-05-01T09:00:00Z",
+    "isMock": true
+  }
+]

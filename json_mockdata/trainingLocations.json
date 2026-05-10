@@ -1,0 +1,266 @@
+[
+  {
+    "_id": "location_001",
+    "name": "Tennisanlage Fronwald",
+    "sports": [
+      "Tennis"
+    ],
+    "address": {
+      "street": "Fronwaldstrasse 115",
+      "postalCode": "8046",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.4172,
+      "lng": 8.5098
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5098,
+        47.4172
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_002",
+    "name": "Hallenbad Oerlikon",
+    "sports": [
+      "Schwimmen"
+    ],
+    "address": {
+      "street": "Wallisellenstrasse 100",
+      "postalCode": "8050",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.4114,
+      "lng": 8.5526
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5526,
+        47.4114
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_003",
+    "name": "Golfpark Otelfingen",
+    "sports": [
+      "Golf"
+    ],
+    "address": {
+      "street": "Neue Riedstrasse 72",
+      "postalCode": "8112",
+      "municipality": "Otelfingen",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.4549,
+      "lng": 8.4018
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.4018,
+        47.4549
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_004",
+    "name": "Lionsoul 24h Gym Zürich",
+    "sports": [
+      "Krafttraining",
+      "Boxen"
+    ],
+    "address": {
+      "street": "Hardgutstrasse 16",
+      "postalCode": "8048",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3865,
+      "lng": 8.4937
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.4937,
+        47.3865
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_005",
+    "name": "Yoga Studio Zürich",
+    "sports": [
+      "Yoga"
+    ],
+    "address": {
+      "street": "Zwinglistrasse 8",
+      "postalCode": "8004",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3773,
+      "lng": 8.5295
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5295,
+        47.3773
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_006",
+    "name": "Sportzentrum Sihlhölzli",
+    "sports": [
+      "Krafttraining",
+      "Yoga",
+      "Boxen"
+    ],
+    "address": {
+      "street": "Manessestrasse 1",
+      "postalCode": "8003",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3678,
+      "lng": 8.5271
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5271,
+        47.3678
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_007",
+    "name": "Das Yoga Haus",
+    "sports": [
+      "Yoga"
+    ],
+    "address": {
+      "street": "Freyastrasse 6a",
+      "postalCode": "8004",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3714,
+      "lng": 8.5247
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5247,
+        47.3714
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_008",
+    "name": "Dream Team Boxing",
+    "sports": [
+      "Boxen"
+    ],
+    "address": {
+      "street": "Bändlistrasse 34",
+      "postalCode": "8064",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3932,
+      "lng": 8.4852
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.4852,
+        47.3932
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_009",
+    "name": "Tennisanlage Frauental",
+    "sports": [
+      "Tennis"
+    ],
+    "address": {
+      "street": "Frauentalweg",
+      "postalCode": "8045",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3648,
+      "lng": 8.5159
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5159,
+        47.3648
+      ]
+    },
+    "sourceType": "real_location_for_prototype",
+    "isMock": true
+  },
+  {
+    "_id": "location_010",
+    "name": "Fitnesspark Puls 5",
+    "sports": [
+      "Krafttraining",
+      "Yoga"
+    ],
+    "address": {
+      "street": "Giessereistrasse 18",
+      "postalCode": "8005",
+      "municipality": "Zürich",
+      "canton": "Zürich"
+    },
+    "coordinates": {
+      "lat": 47.3887,
+      "lng": 8.5178
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        8.5178,
+        47.3887
+      ]
+    },
+    "sourceType": "realistic_location_for_prototype",
+    "isMock": true
+  }
+]

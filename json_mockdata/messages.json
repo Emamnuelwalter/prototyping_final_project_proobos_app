@@ -1,0 +1,200 @@
+[
+  {
+    "_id": "message_001",
+    "senderId": "user_012",
+    "receiverId": "user_018",
+    "bookingId": "booking_001",
+    "type": "booking_request",
+    "message": "Neue Buchungsanfrage für Schwimmtechnik Einzeltraining am 2026-05-18 um 09:00 Uhr.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_002",
+    "senderId": "user_023",
+    "receiverId": "user_007",
+    "bookingId": "booking_002",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Tennis Einzeltraining am 2026-05-24 um 08:00 Uhr ist bestätigt. Standort: Tennisanlage Fronwald, Fronwaldstrasse 115, 8046 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_003",
+    "senderId": "user_023",
+    "receiverId": "user_007",
+    "bookingId": "booking_003",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Schwimmcoaching für Erwachsene am 2026-05-15 um 07:00 Uhr ist bestätigt. Standort: Hallenbad Oerlikon, Wallisellenstrasse 100, 8050 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_004",
+    "senderId": "user_007",
+    "receiverId": "user_023",
+    "bookingId": "booking_004",
+    "type": "booking_request",
+    "message": "Neue Buchungsanfrage für Tennis Einzeltraining am 2026-05-24 um 20:00 Uhr.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_005",
+    "senderId": "user_016",
+    "receiverId": "user_014",
+    "bookingId": "booking_005",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Individuelles Krafttraining am 2026-05-19 um 08:00 Uhr ist bestätigt. Standort: Fitnesspark Puls 5, Giessereistrasse 18, 8005 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_006",
+    "senderId": "user_024",
+    "receiverId": "user_001",
+    "bookingId": "booking_006",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Private Yoga Session am 2026-05-14 um 18:00 Uhr ist bestätigt. Standort: Das Yoga Haus, Freyastrasse 6a, 8004 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_007",
+    "senderId": "user_022",
+    "receiverId": "user_014",
+    "bookingId": "booking_007",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Boxtechnik und Fitness am 2026-05-22 um 17:00 Uhr ist bestätigt. Standort: Sportzentrum Sihlhölzli, Manessestrasse 1, 8003 Zürich.",
+    "isRead": false,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_008",
+    "senderId": "user_024",
+    "receiverId": "user_013",
+    "bookingId": "booking_008",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Personal Fitness Coaching am 2026-05-22 um 12:00 Uhr ist bestätigt. Standort: Fitnesspark Puls 5, Giessereistrasse 18, 8005 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_009",
+    "senderId": "user_024",
+    "receiverId": "user_004",
+    "bookingId": "booking_009",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Private Yoga Session am 2026-05-14 um 18:00 Uhr ist bestätigt. Standort: Das Yoga Haus, Freyastrasse 6a, 8004 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_010",
+    "senderId": "user_024",
+    "receiverId": "user_001",
+    "bookingId": "booking_010",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Private Yoga Session am 2026-05-17 um 19:00 Uhr ist bestätigt. Standort: Das Yoga Haus, Freyastrasse 6a, 8004 Zürich.",
+    "isRead": false,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_011",
+    "senderId": "user_025",
+    "receiverId": "user_011",
+    "bookingId": "booking_011",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Tennis Einzeltraining am 2026-05-24 um 09:00 Uhr ist bestätigt. Standort: Tennisanlage Fronwald, Fronwaldstrasse 115, 8046 Zürich.",
+    "isRead": false,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_012",
+    "senderId": "user_019",
+    "receiverId": "user_014",
+    "bookingId": "booking_012",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Boxtechnik und Fitness am 2026-05-14 um 17:00 Uhr ist bestätigt. Standort: Sportzentrum Sihlhölzli, Manessestrasse 1, 8003 Zürich.",
+    "isRead": false,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_013",
+    "senderId": "user_025",
+    "receiverId": "user_009",
+    "bookingId": "booking_013",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Golf Schwungtraining am 2026-05-12 um 17:00 Uhr ist bestätigt. Standort: Golfpark Otelfingen, Neue Riedstrasse 72, 8112 Otelfingen.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_014",
+    "senderId": "user_010",
+    "receiverId": "user_024",
+    "bookingId": "booking_014",
+    "type": "booking_request",
+    "message": "Neue Buchungsanfrage für Personal Fitness Coaching am 2026-05-24 um 12:00 Uhr.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_015",
+    "senderId": "user_017",
+    "receiverId": "user_011",
+    "bookingId": "booking_015",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Tennis Techniklektion am 2026-05-17 um 20:00 Uhr ist bestätigt. Standort: Tennisanlage Frauental, Frauentalweg, 8045 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_016",
+    "senderId": "user_023",
+    "receiverId": "user_003",
+    "bookingId": "booking_016",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Schwimmcoaching für Erwachsene am 2026-05-15 um 07:00 Uhr ist bestätigt. Standort: Hallenbad Oerlikon, Wallisellenstrasse 100, 8050 Zürich.",
+    "isRead": false,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_017",
+    "senderId": "user_022",
+    "receiverId": "user_006",
+    "bookingId": "booking_017",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Boxtechnik und Fitness am 2026-05-21 um 12:00 Uhr ist bestätigt. Standort: Sportzentrum Sihlhölzli, Manessestrasse 1, 8003 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  },
+  {
+    "_id": "message_018",
+    "senderId": "user_022",
+    "receiverId": "user_006",
+    "bookingId": "booking_018",
+    "type": "booking_confirmation",
+    "message": "Deine Buchung für Techniktraining im Kraftbereich am 2026-05-17 um 12:00 Uhr ist bestätigt. Standort: Lionsoul 24h Gym Zürich, Hardgutstrasse 16, 8048 Zürich.",
+    "isRead": true,
+    "createdAt": "2026-05-05T12:40:00Z",
+    "isMock": true
+  }
+]
