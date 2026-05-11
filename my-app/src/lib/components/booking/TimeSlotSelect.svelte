@@ -22,6 +22,6 @@
       {/each}
     </div>
   {:else}
-    <p class="text-muted">Bitte wählen Sie zuerst ein Datum aus.</p>
+    <p>Bitte wählen Sie zuerst ein Datum aus.</p>
   {/if}
 </div>

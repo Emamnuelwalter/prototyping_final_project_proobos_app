@@ -24,9 +24,9 @@
           <a class="nav-link active" aria-current="page" href="/offers">
             Durchsuchen
           </a>
-          <a class="nav-link" href="/categories">Sportkategorien</a>
-          <a class="nav-link" href="/appointments">Meine Termine</a>
-          <a class="nav-link" href="/profil">Mein Profil</a>
+          <a class="nav-link active" href="/categories">Sportkategorien</a>
+          <a class="nav-link active" href="/appointments">Meine Termine</a>
+          <a class="nav-link active" href="/profil">Mein Profil</a>
         </div>
       </div>
     {/if}

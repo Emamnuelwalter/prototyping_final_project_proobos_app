@@ -19,7 +19,7 @@
 
     <div class="page-intro mb-5">
       <h1>Trainingsangebote entdecken</h1>
-      <p class="text-muted">
+      <p>
         Finden Sie passende Trainer und Kurse basierend auf Ihrem Profil.
       </p>
 

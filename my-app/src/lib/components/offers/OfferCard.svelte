@@ -12,7 +12,7 @@
   let canton = $derived(offer.location?.address?.canton || "");
 </script>
 
-<a href={`/offers/${offer._id}`} class="offer-link">
+<a href={"/offers/"+offer._id} class="offer-link">
   <div class="offer-card">
     <div class="image-box">
       <img src="/img/offers_placeholder.png" alt="Trainingsangebot" />

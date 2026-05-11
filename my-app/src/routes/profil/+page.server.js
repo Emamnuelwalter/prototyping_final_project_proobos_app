@@ -11,7 +11,7 @@ export async function load({ cookies }) {
   const user = await db.getUser(userId);
 
   return {
-    user
+    user,
   };
 }
 
@@ -24,9 +24,9 @@ export const actions = {
     }
 
     cookies.delete("userId", {
-      path: "/"
+      path: "/",
     });
 
     throw redirect(303, "/");
-  }
+  },
 };

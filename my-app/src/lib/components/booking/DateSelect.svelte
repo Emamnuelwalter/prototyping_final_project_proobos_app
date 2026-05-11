@@ -20,6 +20,6 @@
       {/each}
     </div>
   {:else}
-    <p class="text-muted">Keine freien Daten verfügbar.</p>
+    <p>Keine freien Daten verfügbar.</p>
   {/if}
 </div>

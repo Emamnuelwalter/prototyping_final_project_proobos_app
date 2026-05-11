@@ -49,7 +49,7 @@
     Preis: <strong>{offer.pricePerHour} {offer.currency}/h</strong>
   </p>
 
-  <a href={`/booking/${offer._id}`} class="btn btn-primary w-100">
+  <a href={"/booking/"+offer._id} class="btn btn-primary w-100">
     Jetzt buchen
   </a>
 </div>

@@ -12,7 +12,7 @@
   <h1 class="mb-4">{data.sport}</h1>
 
   <OfferList
-    title={`Angebote für ${data.sport}`}
+    title={"Angebote für" +data.sport}
     offers={data.offers}
   />
 </div>

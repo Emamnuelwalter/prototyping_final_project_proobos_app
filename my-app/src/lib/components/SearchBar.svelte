@@ -40,7 +40,7 @@
     <div class="search-results">
       {#if results.length > 0}
         {#each results as offer}
-          <a href={`/offers/${offer._id}`} class="search-result">
+          <a href={"/offers/"+ offer._id} class="search-result">
             <strong>{offer.title}</strong>
             <br />
             <small>{trainerName(offer)} · {offer.location?.name}</small>

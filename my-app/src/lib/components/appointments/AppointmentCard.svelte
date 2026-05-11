@@ -26,12 +26,12 @@
       {booking.date} · {booking.startTime} - {booking.endTime}
     </p>
 
-    <p class="mb-3 text-muted">
+    <p class="mb-3 text-name">
       {booking.location?.name}
     </p>
 
     <a
-      href={`/offers/${booking.offerId}`}
+      href={"/offers/"+ booking.offerId}
       class="btn btn-outline-primary w-100"
     >
       Angebot ansehen

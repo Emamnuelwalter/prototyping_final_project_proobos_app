@@ -42,7 +42,7 @@
   {#if offer}
     <div class="mb-4">
       <h3>{offer.title}</h3>
-      <p class="text-muted">
+      <p>
         {offer.pricePerHour}
         {offer.currency}/h
       </p>
@@ -69,7 +69,7 @@
       <BookingSummary {offer} {selectedDate} {selectedTime} />
 
       <div class="d-flex justify-content-between">
-        <a href={`/offers/${offer._id}`} class="btn btn-outline-primary">
+        <a href={"/offers/"+offer._id} class="btn btn-outline-primary">
           Zurück
         </a>
 

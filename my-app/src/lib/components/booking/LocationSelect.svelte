@@ -15,6 +15,6 @@
       </p>
     </div>
   {:else}
-    <p class="text-muted">Kein Standort vorhanden.</p>
+    <p>Kein Standort vorhanden.</p>
   {/if}
 </div>
