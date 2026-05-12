@@ -90,7 +90,7 @@ Trainingseinheiten können flexibel und kurzfristig gebucht sowie über eine Ter
 11. Der gebuchte Termin wird im Bereich „Meine Termine“ angezeigt.
 12. Der User kann einen Termin bei Bedarf stornieren.
 
-<img src="/my-app/static/img/Workflow.drawio.svg" alt="Worflow Prozess" width="700">
+<img src="/my-app/static/img/Workflow.drawio.svg" alt="Worflow Prozess" width="400" height="auto"/>
 
 **Abgrenzung:**
 
@@ -115,7 +115,7 @@ Die Durchführung erfolgte phasenbasiert. Die wichtigsten Ergebnisse je Phase si
 **Zielgruppenverständnis:**
 
 <details>
-<summars>Die Zielgruppen wurden in vier Gruppen unterteilt.</summary>
+<summary>Die Zielgruppen wurden in vier Gruppen unterteilt.</summary>
 
 **Teilzeitsportler/-innen**
 
@@ -204,10 +204,12 @@ In der Sketch-Phase wurden mehrere Varianten für den Aufbau der App und den Hau
 
 <!-- TODO Skizzenbilder hier einfügen -->
 Skizze 1 (Crazy 8's)
-<img src="/my-app/static/img/Screenshots/skizze_sketch_2.png" alt="Sketch 1" width="700">
+
+<img src="/my-app/static/img/Screenshots/skizze_sketch_2.png" alt="Sketch 1" width="400" height="auto">
 
 Skizze 2 (Skizze inkl. Workflow)
-<img src="/my-app/static/img/Screenshots/skizze_sketch_1.png" alt="Sketch 2" width="700">
+
+<img src="/my-app/static/img/Screenshots/skizze_sketch_1.png" alt="Sketch 2" width="400" height="auto">
 
 
 **Skizzen:**
