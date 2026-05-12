@@ -90,7 +90,7 @@ Trainingseinheiten können flexibel und kurzfristig gebucht sowie über eine Ter
 11. Der gebuchte Termin wird im Bereich „Meine Termine“ angezeigt.
 12. Der User kann einen Termin bei Bedarf stornieren.
 
-<img src="/my-app/static/img/Workflow.drawio.svg" alt="Worflow Prozess" width="400" height="auto"/>
+<img src="/my-app/static/img/Workflow.drawio.svg" alt="Worflow Prozess" width="400" height="1300"/>
 
 **Abgrenzung:**
 
@@ -114,8 +114,7 @@ Die Durchführung erfolgte phasenbasiert. Die wichtigsten Ergebnisse je Phase si
 
 **Zielgruppenverständnis:**
 
-<details>
-<summary>Die Zielgruppen wurden in vier Gruppen unterteilt.</summary>
+Die Zielgruppen wurden in vier Gruppen unterteilt.
 
 **Teilzeitsportler/-innen**
 
@@ -134,6 +133,7 @@ Die Durchführung erfolgte phasenbasiert. Die wichtigsten Ergebnisse je Phase si
   - Authentische Bewertungen einsehen
 - **Persona:** Luka (21), Student, hat nicht immer Zeit, regelmässig ins Fitnessstudio zu gehen, möchte aber Fortschritte machen. Er hat keine Zeit, einen passenden Fitnesstrainer zu finden, und findet keine authentischen Bewertungen.
 - **Typische Sportarten:** Fitness, Gym usw.
+</details>
 
 **Hobbysportler/-innen**
 
@@ -168,6 +168,7 @@ Die Durchführung erfolgte phasenbasiert. Die wichtigsten Ergebnisse je Phase si
 - **Persona:** Yannick (24) läuft seit mehreren Jahren Marathon und trainiert regelmässig. Er möchte sich für seinen nächsten Marathon vorbereiten, hat aber keine Erfahrung mit Profitrainern und weiss nicht, wo er passende Unterstützung findet.
 - **Typische Sportarten:** Marathon, Bergsteigen usw.
 
+
 **Profisportler/-innen**
 
 - **Alter:** 18 bis 40 Jahre
@@ -184,7 +185,7 @@ Die Durchführung erfolgte phasenbasiert. Die wichtigsten Ergebnisse je Phase si
   - Qualifizierte Trainer nach Region finden
 - **Persona:** Linda (28) ist professionelle Skispringerin. Um konkurrenzfähig zu bleiben, absolviert sie regelmässig Krafttraining. Während eines Aufenthalts bei ihren Eltern in der Westschweiz sucht sie einen qualifizierten Krafttrainer, der sie auf Basis ihres Trainingsrapports unterstützen kann.
 - **Typische Sportarten:** Skispringen, Tennis, Ski Alpin, Fussball usw.
-</details>
+
 
 **Wesentliche Erkenntnisse:**
 
@@ -231,7 +232,7 @@ Eine Kartenansicht wurde als sinnvolle Erweiterung identifiziert. Sie würde die
 **Use-Case-Diagramm**
 Das Use-Case-Diagramm zeigt die wichtigsten Funktionen der Anwendung und die beteiligten Rollen. Im Mindestumfang liegt der Fokus auf dem User, der ein Profil erstellt, Angebote durchsucht und Termine bucht. Trainer- und Admin-Funktionen sind als mögliche Erweiterungen vorgesehen.
 
-<img src="/my-app/static/img/Use Case Diagramm.svg" alt="Use-Case-Diagramm Proboos" width="700">
+<img src="/my-app/static/img/Use Case Diagramm.svg" alt="Use-Case-Diagramm Proboos" width="400" height="auto">
 
 **End-to-End-Ablauf:**
 
@@ -249,7 +250,7 @@ Das Use-Case-Diagramm zeigt die wichtigsten Funktionen der Anwendung und die bet
 **User Journey Map:**
 
 Die User Journey Map zeigt den Ablauf aus Sicht des Users vom Einstieg bis zur Buchung.
-<img src="/my-app/static/img/Proobos User Journey Map.jpg" alt="Desktop-Detailansicht" width="700">
+<img src="/my-app/static/img/Proobos User Journey Map.jpg" alt="Desktop-Detailansicht" width="400" height="auto">
 
 
 **Mockup:**
@@ -265,19 +266,19 @@ In der Profilansicht sieht der User seine eigenen Profildaten. Auf Basis der int
 Unter „Meine Termine“ kann der User seine gebuchten Termine ansehen und stornieren.
 
 <!-- TODO Screenshots aus dem Figma-Mockup hier einfügen -->
-<img src="/my-app/static/img/Screenshots/Trainingsangebote_Ansicht.png" alt="Desktop-Detailansicht" width="700">
+<img src="/my-app/static/img/Screenshots/Trainingsangebote_Ansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 Hauptseite
 
-<img src="/my-app/static/img/Screenshots/Desktop_detailansicht.png" alt="Desktop-Detailansicht" width="700">
+<img src="/my-app/static/img/Screenshots/Desktop_detailansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 Angebot Detailansicht
 
-<img src="/my-app/static/img/Screenshots/Detailansicht_reviews_desktop.png" alt="Detailansicht-Reviews" width="700">
+<img src="/my-app/static/img/Screenshots/Detailansicht_reviews_desktop.png" alt="Detailansicht-Reviews" width="400" height="auto">
 Bewertungen
 
-<img src="/my-app/static/img/Screenshots/Kalenderauswahl_desktop.png.png" alt="Desktop-Kalenderauswahl" width="700">
+<img src="/my-app/static/img/Screenshots/Kalenderauswahl_desktop.png" alt="Desktop-Kalenderauswahl" width="400" height="auto">
 Termin Auswahl Ansicht
 
-<img src="/my-app/static/img/Screenshots/Confromation_page.png" alt="Desktop-Buchungsbestätigung" width="700">
+<img src="/my-app/static/img/Screenshots/Confromation_page.png" alt="Desktop-Buchungsbestätigung" width="400" height="auto">
 Buchungsbestätig
 
 
@@ -319,19 +320,19 @@ Die Suchfunktion kann auf der Hauptseite genutzt werden und ermöglicht dem User
 
 Die Profilerstellung ist als standardmässiges Formular umgesetzt. Der User wird mit einer roten „*“-Markierung auf Pflichtfelder hingewiesen. Zusätzlich wird ein Hinweis angezeigt, dass im Prototyp keine echten Personendaten eingegeben werden sollen.
 
-<img src="/my-app/static/img/Screenshots/prototype_form_page.png" alt="Prfil-Form" width="700">
+<img src="/my-app/static/img/Screenshots/prototype_form_page.png" alt="Prfil-Form" width="400" height="auto">
 
 **Profil:**
 
 In der Profilansicht sieht der User alle relevanten Informationen seines erstellten Profils. Er kann in dieser Ansicht auch sein Profil löschen. Dadurch wird er zurück auf die Startseite geleitet und kann bei Bedarf ein neues Profil erstellen.
 
-<img src="/my-app/static/img/Screenshots/prototype_profile_page.png" alt="Profil" width="700">
+<img src="/my-app/static/img/Screenshots/prototype_profile_page.png" alt="Profil" width="400" height="auto">
 
 **Terminauswahl:**
 
 Die Terminauswahl ist in zwei Schritte aufgeteilt. Der User wählt zuerst einen verfügbaren Tag und danach eine passende Uhrzeit. Zusätzlich werden der Standort und eine Zusammenfassung der Buchung angezeigt.
 
-<img src="/my-app/static/img/Screenshots/prototype_booking_page.png" alt="Profil" width="700">
+<img src="/my-app/static/img/Screenshots/prototype_booking_page.png" alt="Profil" width="400" height="auto">
 
 **Designentscheidungen:**
 
@@ -463,7 +464,7 @@ Die eigentliche Verarbeitung findet in den jeweiligen `+page.server.js` Dateien 
 
 Die Daten werden in MongoDB in verschiedenen Collections gespeichert. Für den Mindestumfang sind vor allem `users`, `trainingOffers`, `trainingLocations` und `bookings` relevant. Die Collection `reviews` wird für Bewertungen genutzt. Die Collection `messages` ist in den Mockdaten vorbereitet, wird im aktuellen Mindestumfang aber noch nicht aktiv verwendet.
 
-<img src="/my-app/static/img/MongoDb Structure.svg" alt="MongoDb-Struktur" width="700">
+<img src="/my-app/static/img/MongoDb Structure.svg" alt="MongoDb-Struktur" width="400" height="auto">
 
 **Mockdaten:**
 
