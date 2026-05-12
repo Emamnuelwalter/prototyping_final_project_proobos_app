@@ -90,7 +90,7 @@ Trainingseinheiten können flexibel und kurzfristig gebucht sowie über eine Ter
 11. Der gebuchte Termin wird im Bereich „Meine Termine“ angezeigt.
 12. Der User kann einen Termin bei Bedarf stornieren.
 
-<img src="/my-app/static/img/Workflow.drawio.svg" alt="Worflow Prozess" width="400" height="1300"/>
+<img src="/my-app/static/img/Workflow.drawio.svg" alt="Worflow Prozess" width="400" height="800"/>
 
 **Abgrenzung:**
 
@@ -230,9 +230,12 @@ Die Entscheidung gegen eine vollumfängliche Nachrichtenfunktion wurde getroffen
 Eine Kartenansicht wurde als sinnvolle Erweiterung identifiziert. Sie würde die Suche nach Angeboten in der Nähe verbessern und die Benutzerfreundlichkeit weiter erhöhen. Für den Mindestumfang wurde diese Funktion jedoch nicht umgesetzt.
  
 **Use-Case-Diagramm**
+
 Das Use-Case-Diagramm zeigt die wichtigsten Funktionen der Anwendung und die beteiligten Rollen. Im Mindestumfang liegt der Fokus auf dem User, der ein Profil erstellt, Angebote durchsucht und Termine bucht. Trainer- und Admin-Funktionen sind als mögliche Erweiterungen vorgesehen.
 
+
 <img src="/my-app/static/img/Use Case Diagramm.svg" alt="Use-Case-Diagramm Proboos" width="400" height="auto">
+
 
 **End-to-End-Ablauf:**
 
@@ -264,22 +267,24 @@ In der erweiterten Verison werden in der Kartenansicht Trainer im Umkreis der Ge
 In der Profilansicht sieht der User seine eigenen Profildaten. Auf Basis der interessierten Sportarten werden passende Trainer und Angebote vorgeschlagen.
 
 Unter „Meine Termine“ kann der User seine gebuchten Termine ansehen und stornieren.
-
 <!-- TODO Screenshots aus dem Figma-Mockup hier einfügen -->
-<img src="/my-app/static/img/Screenshots/Trainingsangebote_Ansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
+**Screnshots** 
+
 Hauptseite
+<img src="/my-app/static/img/Screenshots/Trainingsangebote_Ansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 
-<img src="/my-app/static/img/Screenshots/Desktop_detailansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 Angebot Detailansicht
+<img src="/my-app/static/img/Screenshots/Desktop_detailansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 
-<img src="/my-app/static/img/Screenshots/Detailansicht_reviews_desktop.png" alt="Detailansicht-Reviews" width="400" height="auto">
 Bewertungen
+<img src="/my-app/static/img/Screenshots/Detailansicht_reviews_desktop.png" alt="Detailansicht-Reviews" width="400" height="auto">
 
-<img src="/my-app/static/img/Screenshots/Kalenderauswahl_desktop.png" alt="Desktop-Kalenderauswahl" width="400" height="auto">
 Termin Auswahl Ansicht
+<img src="/my-app/static/img/Screenshots/Kalenderauswahl_desktop.png" alt="Desktop-Kalenderauswahl" width="400" height="auto">
 
-<img src="/my-app/static/img/Screenshots/Confromation_page.png" alt="Desktop-Buchungsbestätigung" width="400" height="auto">
 Buchungsbestätig
+<img src="/my-app/static/img/Screenshots/Confromation_page.png" alt="Desktop-Buchungsbestätigung" width="400" height="auto">
+
 
 
 ### 3.4 Prototype
