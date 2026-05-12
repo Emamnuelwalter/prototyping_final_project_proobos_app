@@ -271,18 +271,27 @@ Unter „Meine Termine“ kann der User seine gebuchten Termine ansehen und stor
 **Screnshots** 
 
 Hauptseite
+
 <img src="/my-app/static/img/Screenshots/Trainingsangebote_Ansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 
+
 Angebot Detailansicht
+
 <img src="/my-app/static/img/Screenshots/Desktop_detailansicht.png" alt="Desktop-Detailansicht" width="400" height="auto">
 
+
 Bewertungen
+
 <img src="/my-app/static/img/Screenshots/Detailansicht_reviews_desktop.png" alt="Detailansicht-Reviews" width="400" height="auto">
 
+
 Termin Auswahl Ansicht
+
 <img src="/my-app/static/img/Screenshots/Kalenderauswahl_desktop.png" alt="Desktop-Kalenderauswahl" width="400" height="auto">
 
+
 Buchungsbestätig
+
 <img src="/my-app/static/img/Screenshots/Confromation_page.png" alt="Desktop-Buchungsbestätigung" width="400" height="auto">
 
 
